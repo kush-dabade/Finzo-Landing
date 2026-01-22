@@ -37,13 +37,6 @@ This is a **frontend-only project**, built as a product-style landing page rathe
 *   **WebGL (ogl)** for background effects
     
 
-📁 Project Structure
---------------------
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   src  ├── assets        # Images, icons, static assets  ├── components  │   ├── layout    # Navbar, Footer  │   ├── sections  # Hero, Value, Features, Pricing  │   ├── effects   # Visual / WebGL effects (DarkVeil)  │   └── ui        # Reusable UI primitives  └── lib           # Utilities and helpers   `
-
-The structure is designed to keep **layout, page sections, effects, and reusable UI clearly separated**, making the codebase easy to understand and scale.
-
 
 🎯 Purpose of the Project
 -------------------------
